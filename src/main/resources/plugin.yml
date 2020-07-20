@@ -1,0 +1,4 @@
+name: MinecraftButEverythingYouMineTurnsIntoTNT
+version: ${project.version}
+main: com.pinoco.minecraftbuteverythingyoumineturnsintotnt.Main
+api-version: 1.16
